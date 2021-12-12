@@ -22,4 +22,4 @@ $ git push heroku main
        http://arcane-lowlands-8408.herokuapp.com deployed to Heroku
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?button-url=https://github.com/eunbiline98/nodered-atmduino-cloud/tree/master&template=https://github.com/eunbiline98/nodered-atmduino-cloud/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?button-url=https://github.com/eunbiline98/nodered-atmduino-cloud/master&template=https://github.com/eunbiline98/nodered-atmduino-cloud/master)
