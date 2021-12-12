@@ -251,7 +251,7 @@
     {
         "id": "e073379bd4e33a61",
         "type": "mqtt-broker",
-        "name": "atmduino-mqtt-cloud",
+        "name": "mqtt-cloud",
         "broker": " ws://mqtt-cloud-atmduino.herokuapp.com",
         "port": "1883",
         "clientid": "",
