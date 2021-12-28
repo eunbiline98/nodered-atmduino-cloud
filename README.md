@@ -24,7 +24,7 @@ $ git push heroku main
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?button-url=https://github.com/eunbiline98/nodered-atmduino-cloud/master&template=https://github.com/eunbiline98/nodered-atmduino-cloud/master)
 
-  <a href="https://nodered-atmduino-cloud.herokuapp.com/">
+  <a href="https://nodered-atmduino.herokuapp.com/ui/">
     <img src="https://img.shields.io/badge/nodered-%23E4405F.svg?&style=for-the-badge&logo=nodered&logoColor=white" height=35>
   </a> 
 
