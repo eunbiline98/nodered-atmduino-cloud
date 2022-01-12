@@ -11,15 +11,15 @@ $ heroku login or heroku login -i
 Enter your Heroku credentials.
 ...
 $ heroku create
-Creating arcane-lowlands-8408... done, stack is cedar
-http://arcane-lowlands-8408.herokuapp.com/ | git@heroku.com:arcane-lowlands-8408.git
+Creating mqtt-cloud-atmduino.herokuapp.com... done, stack is cedar
+http://mqtt-cloud-atmduino.herokuapp.com// | git@heroku.com:mqtt-cloud-atmduino.herokuapp.com.git
 Git remote heroku added
 $ git push heroku main
 ...
 -----> Node.js app detected
 ...
 -----> Launching... done
-       http://arcane-lowlands-8408.herokuapp.com deployed to Heroku
+       http://mqtt-cloud-atmduino.herokuapp.com deployed to Heroku
 ```
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?button-url=https://github.com/eunbiline98/nodered-atmduino-cloud/master&template=https://github.com/eunbiline98/nodered-atmduino-cloud/master)
